@@ -1,9 +1,8 @@
 ### Hi there, I'm Lilian 😃
 
-- 🔭 I’m currently a final year Computer Science student at Sunway University
-- 💻 I'm interested in artificial intelligence/machine learning, robotics, and programming 😃
-- 🌱 I’m currently learning SLAM, PyTorch, and Tensorflow (also looking to learn new things that interest me!)
-- 📫 Reach me through my email at llianung01@gmail.com
+- 🔭 I’m currently a Computer Science fresh graduate from Sunway University & Lancaster University
+- 💻 I'm interested in backend software development, algorithms, artificial intelligence/machine learning, and robotics 😃
+- 📫 Reach me through my email at llianung1@gmail.com
 
 <div align="center">
 <h2>Languages & Tools</h2><br>
